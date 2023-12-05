@@ -1,5 +1,5 @@
 # wind-farm-simulation 💡
-![]https://media2.giphy.com/media/WSqsdbIH6mLrHe78tJ/giphy.gif
+![](https://media2.giphy.com/media/WSqsdbIH6mLrHe78tJ/giphy.gif)
 
 ## What's that ? 💻
 Embarking on my first substantial C project, I found myself delving into the intricate realm of simulating a wind farm. The task at hand was to analyze the energy production of a wind turbine park, considering variables such as wind conditions, the robustness of the turbines, and the overall size of the park. The operational framework was elegantly simplified for the exercise. 
