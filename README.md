@@ -21,3 +21,7 @@ All wind turbines are in a new state.
   - Cost of an intervention: 150 k€.
   - The intervention is suspended as long as the wind is strong.
 After the intervention, the wind turbine is considered to be in a new state.
+
+## Results
+![My Image](images/menu1.png)
+![My Image](images/menu3.png)
