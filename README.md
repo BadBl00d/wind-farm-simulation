@@ -2,7 +2,7 @@
 ![](https://media2.giphy.com/media/WSqsdbIH6mLrHe78tJ/giphy.gif)
 
 ## What's that ? 💻
-Embarking on my first substantial C project, I found myself delving into the intricate realm of simulating a wind farm. The task at hand was to analyze the energy production of a wind turbine park, considering variables such as wind conditions, the robustness of the turbines, and the overall size of the park. The operational framework was elegantly simplified for the exercise. 
+This project was developed as part of a class project. Embarking on my first substantial C project, I found myself delving into the intricate realm of simulating a wind farm. The task at hand was to analyze the energy production of a wind turbine park, considering variables such as wind conditions, the robustness of the turbines, and the overall size of the park. The operational framework was elegantly simplified for the exercise. 
 
 ## Instructions
 Each wind turbine generated energy based on wind speed, categorized into three levels: no wind (yielding no energy production), moderate wind (production level 1), and strong wind (production level 2). The wind speed remained constant throughout the day, with random changes in speed at the onset of each day, governed by a transition matrix, aptly named V. Adding a layer of complexity, when subjected to strong winds, a turbine had a probability 'p' of malfunctioning, leading to its cessation for maintenance. Thus, this endeavor not only delves into the dynamics of renewable energy production but also introduces the challenge of managing turbine reliability within the dynamic interplay of wind conditions.
